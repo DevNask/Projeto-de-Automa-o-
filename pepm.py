@@ -1,11 +1,9 @@
 import pyautogui as bot
+import time
 from time import sleep
-import random
 import os
-import pygetwindow as gw
 import pyperclip
 import pandas as pd
-import time
 
 df = pd.read_excel(r'C:\Users\Detran\Desktop\robo (Conferência Baixa 2)\listaplaca.xlsx')  # extrai desta planilha
 
@@ -46,5 +44,6 @@ for placa in df ['placa']:
     df_resultados = pd.DataFrame(resultados)
     df_resultados.to_excel(relatorio_path, index=False)
 
-    # Pausa entre as iterações para tornar o comportamento mais natural
+    # Pausa entre as interações e recomeçar o Loop 
+
     time.sleep(random.uniform(1, 2))
