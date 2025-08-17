@@ -6,3 +6,8 @@
 <li>Python</li>
 <li>Biblioteca Pandas</li>
 </Ul>
+
+<ul>Com este projeto eu aprendi :
+<li type = square> Organização</li>
+<li type = square>Uso da Biblioteca Pandas e OS</li>
+</ul>
