@@ -1,10 +1,9 @@
 <h1>Projeto de Automação</h1>
 <br>
-<p>Neste Projeto desenvolvi um mecânismo para realizar pesquisas em veículos leiloados como Sucata em leilão realizado pelo Detran-SP.</p>
+<h2>Especificações Técnicas Obrigatórias :</h2>
+<p>Objetivo desta automação era realizar pesquisa em uma lista extraida do excel com placas de veiculos leiloados pelo Detran-SP na classificação de Sucata</p>
 
-<h3>Objetivo desta automação era realizar pesquisa em uma lista extraida do excel com placas de veiculos leiloados pelo Detran-SP na classificação de Sucata</h3>
-
-<Ul>Tecnologias Utilizadas :
+<Ul><h2>Tecnologias Utilizadas :</h2>
 <li>Python</li>
 <li>Biblioteca Pandas</li>
 </Ul>
