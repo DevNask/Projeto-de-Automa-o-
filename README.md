@@ -1,4 +1,4 @@
-<h1>Projeto de Automação</h1>
+<h1>Projeto : Conferência de Status de Veículo</h1>
 <br>
 <h2>Especificações Técnicas Obrigatórias :</h2>
 <p>Objetivo desta automação era realizar pesquisa em uma lista extraida do excel usada como banco de dados, com placas de veiculos leiloados pelo Detran-SP na classificação de Sucata, realizando a ação de pesquisar veículo  por veículo consultando o Status do mesmo e retornando em uma planilha ao final do Loop.</p>
